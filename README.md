@@ -18,8 +18,8 @@
 ### Корисні матеріали:
 - [Blockchain](https://www.investopedia.com/terms/b/blockchain.asp)
 - [Hash](https://corporatefinanceinstitute.com/resources/cryptocurrency/hash-function/)
-- [Ethereum](https://trusteeglobal.com/academy/kryptovalyuta-ethereum-shho-cze-ta-v-chomu-yiyi-sut/?s=ethereum)
-- [Ethereum](https://trusteeglobal.com/academy/kryptovalyuta-ethereum-shho-cze-ta-v-chomu-yiyi-sut/?s=ethereum)
+- [Ethereum old](https://trusteeglobal.com/academy/kryptovalyuta-ethereum-shho-cze-ta-v-chomu-yiyi-sut/?s=ethereum)
+- [Ethereum new](https://www.coinbase.com/learn/crypto-basics/what-is-ethereum)
 - [Смарт контракт](https://forklog.com/cryptorium/chto-takoe-smart-kontrakt)
 - [Gas](https://trusteeglobal.com/academy/gaz-efiriumu-i-kryptovalyuty/?s=ethereum)
 
